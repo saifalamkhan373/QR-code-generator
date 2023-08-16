@@ -170,7 +170,7 @@ export default (props) => {
                   <strong className="text_image">{ssid_password}</strong>
                 </h1>
                 <h1 style={{ marginTop: 15, fontSize: 15 }}>
-                 Created by Saif Alam Khan
+                 Created by Saif Alam Khan!
                 </h1>
               </Box>
             </Box>

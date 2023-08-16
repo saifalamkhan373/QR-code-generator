@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QR-code-generator/static/css/main.6ba31f66.chunk.css",
+    "main.js": "/QR-code-generator/static/js/main.bc05fc9a.chunk.js",
+    "main.js.map": "/QR-code-generator/static/js/main.bc05fc9a.chunk.js.map",
+    "runtime~main.js": "/QR-code-generator/static/js/runtime~main.74c08cb4.js",
+    "runtime~main.js.map": "/QR-code-generator/static/js/runtime~main.74c08cb4.js.map",
+    "static/js/2.4cc04671.chunk.js": "/QR-code-generator/static/js/2.4cc04671.chunk.js",
+    "static/js/2.4cc04671.chunk.js.map": "/QR-code-generator/static/js/2.4cc04671.chunk.js.map",
+    "index.html": "/QR-code-generator/index.html",
+    "precache-manifest.c25079a7d8faf919cc14386a4493fac6.js": "/QR-code-generator/precache-manifest.c25079a7d8faf919cc14386a4493fac6.js",
+    "service-worker.js": "/QR-code-generator/service-worker.js",
+    "static/css/main.6ba31f66.chunk.css.map": "/QR-code-generator/static/css/main.6ba31f66.chunk.css.map"
+  }
+}

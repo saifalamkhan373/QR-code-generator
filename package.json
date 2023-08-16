@@ -4,9 +4,11 @@
   "description": "",
   "keywords": [],
   "main": "src/index.js",
+  "homepage": "https://saifalamkhan373.github.io/QR-code-generator",
   "dependencies": {
     "@material-ui/core": "4.9.0",
     "@material-ui/icons": "4.5.1",
+    "gh-pages": "^6.0.0",
     "html2canvas": "1.0.0-rc.5",
     "jspdf": "1.5.3",
     "material-ui-phone-number": "2.2.5",
@@ -19,6 +21,7 @@
     "typescript": "3.3.3"
   },
   "scripts": {
+    "deploy" : "npm run build&&gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
