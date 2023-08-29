@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/QR-code-generator/static/css/main.6ba31f66.chunk.css",
-    "main.js": "/QR-code-generator/static/js/main.ea33af20.chunk.js",
-    "main.js.map": "/QR-code-generator/static/js/main.ea33af20.chunk.js.map",
+    "main.js": "/QR-code-generator/static/js/main.e2f67df8.chunk.js",
+    "main.js.map": "/QR-code-generator/static/js/main.e2f67df8.chunk.js.map",
     "runtime~main.js": "/QR-code-generator/static/js/runtime~main.74c08cb4.js",
     "runtime~main.js.map": "/QR-code-generator/static/js/runtime~main.74c08cb4.js.map",
     "static/js/2.4cc04671.chunk.js": "/QR-code-generator/static/js/2.4cc04671.chunk.js",
     "static/js/2.4cc04671.chunk.js.map": "/QR-code-generator/static/js/2.4cc04671.chunk.js.map",
     "index.html": "/QR-code-generator/index.html",
-    "precache-manifest.2faf05d78e4bf1ce6ecc035dea7a51ba.js": "/QR-code-generator/precache-manifest.2faf05d78e4bf1ce6ecc035dea7a51ba.js",
+    "precache-manifest.ed10b5102015785c0decfc038b4afe90.js": "/QR-code-generator/precache-manifest.ed10b5102015785c0decfc038b4afe90.js",
     "service-worker.js": "/QR-code-generator/service-worker.js",
     "static/css/main.6ba31f66.chunk.css.map": "/QR-code-generator/static/css/main.6ba31f66.chunk.css.map"
   }
