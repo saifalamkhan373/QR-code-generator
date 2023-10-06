@@ -33,5 +33,5 @@ $ npm i
 $ npm start
 ```
 
-@saifalamkhan373
+
 Follow me on linkedin: https://www.linkedin.com/in/saif-alam-khan-381885192/
