@@ -1,7 +1,7 @@
 # QR code generator by Saif
 Test through this link: https://saifalamkhan373.github.io/QR-code-generator/#/
 
-- Built with React
+- Built with React.js
 - Totally free to use
 - Generate QR code with simplicity !
 
